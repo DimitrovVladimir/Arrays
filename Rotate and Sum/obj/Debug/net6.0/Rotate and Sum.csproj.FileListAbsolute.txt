@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\bin\Debug\net6.0\Rotate and Sum.exe
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\bin\Debug\net6.0\Rotate and Sum.deps.json
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\bin\Debug\net6.0\Rotate and Sum.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\bin\Debug\net6.0\Rotate and Sum.dll
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\bin\Debug\net6.0\Rotate and Sum.pdb
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.dll
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\refint\Rotate and Sum.dll
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.pdb
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\Rotate and Sum.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Arrays\Rotate and Sum\obj\Debug\net6.0\ref\Rotate and Sum.dll

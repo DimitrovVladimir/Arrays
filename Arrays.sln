@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest Common End", "Largest Common End\Largest Common End.csproj", "{98F6EDCC-CBE8-41F5-92C4-726AC149C853}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rotate and Sum", "Rotate and Sum\Rotate and Sum.csproj", "{197AC85E-6439-476B-ADDC-CD7A77A7FD72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve of Eratosthenes", "Sieve of Eratosthenes\Sieve of Eratosthenes.csproj", "{CD36ACED-6C67-4BB4-8ED0-8D5FFFBA9BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fold and Sum", "Fold and Sum\Fold and Sum.csproj", "{E8DEDCAD-0861-4ECA-B45A-18D07318F902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Sequence of Equal Elements", "Max Sequence of Equal Elements\Max Sequence of Equal Elements.csproj", "{54F72798-0E3C-4F32-8D65-6BFCE5DDE24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F6EDCC-CBE8-41F5-92C4-726AC149C853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F6EDCC-CBE8-41F5-92C4-726AC149C853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F6EDCC-CBE8-41F5-92C4-726AC149C853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F6EDCC-CBE8-41F5-92C4-726AC149C853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197AC85E-6439-476B-ADDC-CD7A77A7FD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197AC85E-6439-476B-ADDC-CD7A77A7FD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197AC85E-6439-476B-ADDC-CD7A77A7FD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197AC85E-6439-476B-ADDC-CD7A77A7FD72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD36ACED-6C67-4BB4-8ED0-8D5FFFBA9BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD36ACED-6C67-4BB4-8ED0-8D5FFFBA9BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD36ACED-6C67-4BB4-8ED0-8D5FFFBA9BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD36ACED-6C67-4BB4-8ED0-8D5FFFBA9BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DEDCAD-0861-4ECA-B45A-18D07318F902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DEDCAD-0861-4ECA-B45A-18D07318F902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DEDCAD-0861-4ECA-B45A-18D07318F902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DEDCAD-0861-4ECA-B45A-18D07318F902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F72798-0E3C-4F32-8D65-6BFCE5DDE24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F72798-0E3C-4F32-8D65-6BFCE5DDE24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F72798-0E3C-4F32-8D65-6BFCE5DDE24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F72798-0E3C-4F32-8D65-6BFCE5DDE24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EDEFE8B-5E34-4C72-B2A0-AEC903CFE5CA}
+	EndGlobalSection
+EndGlobal
